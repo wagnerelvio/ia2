@@ -1,0 +1,226 @@
+avaliacoes = {'Alan':
+               { 'Amor pra Recordar': 5.0,
+                'Avatar':4.0,
+                'Cinquenta tons de cinza':2.0,
+                'Em busca da felicidade':5.0,
+                'Estrelas alem do tempo':0.0,
+                'Eu sou a Lenda':5.0,
+                'Guerra Infinita':0.0,
+                'Jogos Vorazes':4.0,
+                'O Jogo da Imitacao':2.0,
+                'Top Gun':5.0},
+
+    'Adeilson':
+                {'Amor pra Recordar': 0.2,
+                'Avatar':2.5,
+                'Cinquenta tons de cinza':3.0,
+                'Em busca da felicidade':2.0,
+                'Estrelas alem do tempo':0.0,
+                'Eu sou a Lenda':5.0,
+                'Guerra Infinita':4.0,
+                'Jogos Vorazes':4.0,
+                'O Jogo da Imitacao':2.0,
+                'Top Gun':5.0},
+
+    'Alison':
+                {'Amor pra Recordar': 5.0,
+                'Avatar':3.6,
+                'Cinquenta tons de cinza':4.0,
+                'Em busca da felicidade':5.0,
+                'Estrelas alem do tempo':3.8,
+                'Eu sou a Lenda':5.0,
+                'Guerra Infinita':5.0,
+                'Jogos Vorazes':5.0,
+                'O Jogo da Imitacao':0.0,
+                'Top Gun':5.0},
+    'Wenderson':
+                {'Amor pra Recordar': 4.2,
+                'Avatar':5.0,
+                'Cinquenta tons de cinza':3.5,
+                'Em busca da felicidade':2.0,
+                'Estrelas alem do tempo':0.0,
+                'Eu sou a Lenda':0.0,
+                'Guerra Infinita':0.0,
+                'Jogos Vorazes':5.0,
+                'O Jogo da Imitacao':0.0,
+                'Top Gun':0.0},
+    'Joctan':
+                {'Amor pra Recordar': 3.6,
+                'Avatar':3.0,
+                'Cinquenta tons de cinza':5.0,
+                'Em busca da felicidade':5.0,
+                'Estrelas alem do tempo':3.0,
+                'Eu sou a Lenda':3.0,
+                'Guerra Infinita':5.0,
+                'Jogos Vorazes':4.0,
+                'O Jogo da Imitacao':4.0,
+                'Top Gun':5.0},
+    'Johannes':
+                {'Amor pra Recordar': 5.0,
+                'Avatar':2.5,
+                'Cinquenta tons de cinza':3.0,
+                'Em busca da felicidade':5.0,
+                'Estrelas alem do tempo':5.0,
+                'Eu sou a Lenda':5.0,
+                'Guerra Infinita':5.0,
+                'Jogos Vorazes':3.2,
+                'O Jogo da Imitacao':4.5,
+                'Top Gun':50},
+    'Rayara':
+                {'Amor pra Recordar': 5.0,
+                'Avatar':3.0,
+                'Cinquenta tons de cinza':5.0,
+                'Em busca da felicidade':5.0,
+                'Estrelas alem do tempo':3.0,
+                'Eu sou a Lenda':3.0,
+                'Guerra Infinita':5.0,
+                'Jogos Vorazes':4.0,
+                'O Jogo da Imitacao':4.0,
+                'Top Gun':5.0},
+    'Wesley':
+                {'Amor pra Recordar': 4.2,
+                'Avatar':0.0,
+                'Cinquenta tons de cinza':0.0,
+                'Em busca da felicidade':0.0,
+                'Estrelas alem do tempo':0.0,
+                'Eu sou a Lenda':4.5,
+                'Guerra Infinita':5.0,
+                'Jogos Vorazes':3.8,
+                'O Jogo da Imitacao':5.0,
+                'Top Gun':5.0},
+    'Francisco':
+                {'Amor pra Recordar': 0.0,
+                'Avatar':3.0,
+                'Cinquenta tons de cinza':0.0,
+                'Em busca da felicidade':2.0,
+                'Estrelas alem do tempo':5.0,
+                'Eu sou a Lenda':4.0,
+                'Guerra Infinita':5.0,
+                'Jogos Vorazes':4.0,
+                'O Jogo da Imitacao':0.0,
+                'Top Gun':3.0},
+    'Raylson':
+                {'Amor pra Recordar': 5.0,
+                'Avatar':3.0,
+                'Cinquenta tons de cinza':5.0,
+                'Em busca da felicidade':5.0,
+                'Estrelas alem do tempo':3.0,
+                'Eu sou a Lenda':3.0,
+                'Guerra Infinita':5.0,
+                'Jogos Vorazes':4.0,
+                'O Jogo da Imitacao':4.0,
+                'Top Gun':5.0},
+    'Rafael':
+                {'Amor pra Recordar': 2.5,
+                'Avatar':5.0,
+                'Cinquenta tons de cinza':0.0,
+                'Em busca da felicidade':5.0,
+                'Estrelas alem do tempo':0.0,
+                'Eu sou a Lenda':5.0,
+                'Guerra Infinita':0.0,
+                'Jogos Vorazes':3.0,
+                'O Jogo da Imitacao':2.0,
+                'Top Gun':5.0},
+               
+    'Nayla':
+                {'Amor pra Recordar': 5.0,
+                'Avatar':0.0,
+                'Cinquenta tons de cinza':5.0,
+                'Em busca da felicidade':0.0,
+                'Estrelas alem do tempo':0.0,
+                'Eu sou a Lenda':0.0,
+                'Guerra Infinita':0.0,
+                'Jogos Vorazes':0.0,
+                'O Jogo da Imitacao':0.0,
+                'Top Gun':0.0},
+	'Victor':
+                {'Amor pra Recordar': 3.0,
+                'Avatar':5.0,
+                'Cinquenta tons de cinza':0.0,
+                'Em busca da felicidade':3.0,
+                'Estrelas alem do tempo':5.0,
+                'Eu sou a Lenda':0.0,
+                'Guerra Infinita':0.0,
+                'Jogos Vorazes':0.0,
+                'O Jogo da Imitacao':0.0,
+                'Top Gun':0.0},
+               
+	'Jose':
+                {'Amor pra Recordar': 5.0,
+                'Avatar':4.6,
+                'Cinquenta tons de cinza':5.0,
+                'Em busca da felicidade':5.0,
+                'Estrelas alem do tempo':3.0,
+                'Eu sou a Lenda':4.0,
+                'Guerra Infinita':0.0,
+                'Jogos Vorazes':2.4,
+                'O Jogo da Imitacao':5.0,
+                'Top Gun':5.0},
+               
+	'Idalia':
+                {'Amor pra Recordar': 4.0,
+                'Avatar':5.0,
+                'Cinquenta tons de cinza':4.0,
+                'Em busca da felicidade':5.0,
+                'Estrelas alem do tempo':4.0,
+                'Eu sou a Lenda':5.0,
+                'Guerra Infinita':5.0,
+                'Jogos Vorazes':5.0,
+                'O Jogo da Imitacao':5.0,
+                'Top Gun':4.0},
+   	'Matheus':
+                {'Amor pra Recordar': 3.0,
+                'Avatar':5.0,
+                'Cinquenta tons de cinza':3.5,
+                'Em busca da felicidade':2.0,
+                'Estrelas alem do tempo':0.0,
+                'Eu sou a Lenda':0.0,
+                'Guerra Infinita':0.0,
+                'Jogos Vorazes':5.0,
+                'O Jogo da Imitacao':0.0,
+                'Top Gun':0.0},
+	'Gustavo':
+                {'Amor pra Recordar': 5.0,
+                'Avatar':3.5,
+                'Cinquenta tons de cinza':4.5,
+                'Em busca da felicidade':5.0,
+                'Estrelas alem do tempo':2.5,
+                'Eu sou a Lenda':4.0,
+                'Guerra Infinita':4.2,
+                'Jogos Vorazes':3.5,
+                'O Jogo da Imitacao':4.5,
+                'Top Gun':5.0},
+	'JoseMaria':
+                {'Amor pra Recordar': 4.0,
+                'Avatar':4.6,
+                'Cinquenta tons de cinza':5.0,
+                'Em busca da felicidade':5.0,
+                'Estrelas alem do tempo':3.0,
+                'Eu sou a Lenda':5.0,
+                'Guerra Infinita':0.0,
+                'Jogos Vorazes':0.0,
+                'O Jogo da Imitacao':0.0,
+                'Top Gun':0.0}
+}
+
+from math import sqrt
+
+def euclidiana(usuario1,usuario2):
+    si = {}
+    for item in avaliacoes[usuario1]:
+        if item in avaliacoes[usuario2]: si[item] = 1
+
+        if len(si) == 0: return 0
+
+        soma = sum ([pow(avaliacoes[usuario1][item] - avaliacoes[usuario2][item],2)
+                     for item in avaliacoes[usuario1] if item in avaliacoes[usuario2]])
+        return 1/(1+ sqrt(soma))
+
+def    getSimilares(usuario):
+       similaridade = [(euclidiana(usuario, outro), outro)
+                      for outro in avaliacoes if outro != usuario]
+       similaridade.sort()
+       similaridade.reverse()
+       return similaridade
+
+                    
